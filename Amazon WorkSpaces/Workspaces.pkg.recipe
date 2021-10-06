@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release of Amazon Workspaces and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.github.crystalllized.pkg.AmazonWorkSpaces</string>
+	<string>com.github.petergadgetgeek.pkg.AmazonWorkSpaces</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
