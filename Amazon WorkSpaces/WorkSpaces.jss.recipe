@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Amazon WorkSpaces and makes a pkg of it then uploads it to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.crystalllized.jss.AmazonWorkspaces</string>
+	<string>com.github.petergadgetgeek.jss.AmazonWorkspaces</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -30,7 +30,7 @@
 		<string>download_changed == False</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.crystalllized.pkg.AmazonWorkSpaces</string>
+	<string>com.github.petergadgetgeek.pkg.AmazonWorkSpaces</string>
 	<key>Process</key>
 	<array>
 		<dict>
